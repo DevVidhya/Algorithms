@@ -1,3 +1,2 @@
-# Semester4Algo
+# Semester 4 Algo Lab
 
-Learning to use github.
