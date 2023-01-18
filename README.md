@@ -2,7 +2,7 @@
 
 ### Tic-Tac-Toe Game
 ### Algorithms:
-Divide and Conquer
-Dynamic Programming
-Greedy Algo
-Randomized Algorithm
+Divide and Conquer <br />
+Dynamic Programming <br />
+Greedy Algo <br />
+Randomized Algorithm <br />
